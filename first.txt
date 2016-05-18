@@ -2,3 +2,4 @@ Hello Git training!
 I'm waiting for the lunch.
 New line addded.
 Master feature.
+Modified.
