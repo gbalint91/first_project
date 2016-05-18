@@ -3,3 +3,4 @@ Valami.
 This file is modified on the server.
 This is the feature 10.
 This is the feature 20.
+This is the feature 30.
