@@ -1,5 +1,6 @@
 Hello Git training!
 I'm waiting for the lunch.
 New line addded.
+ASddddd
 Master feature.
 Modified.
